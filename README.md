@@ -1,9 +1,9 @@
 # TinkerPatch SDK
-[![Build Status](https://travis-ci.org/TinkerPatch/tinkerpatch-sdk.svg?branch=master)](https://travis-ci.org/TinkerPatch/tinkerpatch-sdk)
-[![Join Slack](https://slack.tinkerpatch.com/badge.svg)](https://slack.tinkerpatch.com)
+[Build Status](https://travis-ci.org/TinkerPatch/tinkerpatch-sdk)
+[Join Slack](https://slack.tinkerpatch.com)
 
 
-### 一键集成SDK (推荐使用) [![Download](https://api.bintray.com/packages/simsun/maven/tinkerpatch-android-sdk/images/download.svg) ](https://bintray.com/simsun/maven/tinkerpatch-android-sdk/_latestVersion)
+### 一键集成SDK (推荐使用) [Download](https://bintray.com/simsun/maven/tinkerpatch-android-sdk/_latestVersion)
 无需修改项目结构，集成简单、方便，
 
 [集成文档](docs/tinkerpatch-turnkey-sdk.md)
@@ -11,7 +11,7 @@
 
 
 
-### 可定制化SDK [![Download](https://api.bintray.com/packages/simsun/maven/tinkerpatch-sdk/images/download.svg) ](https://bintray.com/simsun/maven/tinkerpatch-sdk/_latestVersion)
+### 可定制化SDK [Download](https://bintray.com/simsun/maven/tinkerpatch-sdk/_latestVersion)
 需要修改项目结构代码，定制性较高，
 
 [集成文档](docs/tinkerpatch-custom-sdk.md)
